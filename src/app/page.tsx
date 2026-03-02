@@ -1863,9 +1863,6 @@ export default function Home() {
 
   return (
     <>
-    {/* 添加自定义动画样式 */}
-    <style dangerouslySetInnerHTML={{ __html: floatAnimation }} />
-    
     {/* PWA 安装按钮 - 已隐藏 */}
     {/* <InstallPWA /> */}
     
